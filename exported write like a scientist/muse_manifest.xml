@@ -1,0 +1,147 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1505212880077">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="140114459" ref="plan:review:next-step:all:structure:index:present:research"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="plan:review:next-step:all:structure:index:present:research"/>
+    <file name="plan.css" crc="443952407" ref="plan"/>
+    <file name="nomq_plan.css" crc="260542933" ref="plan"/>
+    <file name="review.css" crc="443952407" ref="review"/>
+    <file name="nomq_review.css" crc="260542933" ref="review"/>
+    <file name="next-step.css" crc="443952407" ref="next-step"/>
+    <file name="nomq_next-step.css" crc="260542933" ref="next-step"/>
+    <file name="all.css" crc="443952407" ref="all"/>
+    <file name="nomq_all.css" crc="260542933" ref="all"/>
+    <file name="structure.css" crc="443952407" ref="structure"/>
+    <file name="nomq_structure.css" crc="260542933" ref="structure"/>
+    <file name="index.css" crc="443952407" ref="index"/>
+    <file name="nomq_index.css" crc="260542933" ref="index"/>
+    <file name="present.css" crc="443952407" ref="present"/>
+    <file name="nomq_present.css" crc="260542933" ref="present"/>
+    <file name="research.css" crc="443952407" ref="research"/>
+    <file name="nomq_research.css" crc="260542933" ref="research"/>
+  </folder>
+  <folder name="assets">
+    <file name="a-guide-to-essay-planning.pdf" crc="42094978" seo="true" mt="1502958930000"/>
+    <file name="turning-ideas-into-sentences.pdf" crc="3835940567" seo="true" mt="1502959440000"/>
+    <file name="signposting-stems.pdf" crc="3952985510" seo="true" mt="1502959386000"/>
+    <file name="how-to-research.pdf" crc="3786216434" seo="true" mt="1502959260000"/>
+    <file name="how-to-do-a-literature-review.pdf" crc="4120770267" seo="true" mt="1502959230000"/>
+    <file name="using-the-work-of-others.pdf" crc="50999338" seo="true" mt="1502959470000"/>
+    <file name="how-to-structure-an-essay.pdf" crc="4051526880" seo="true" mt="1502959292000"/>
+    <file name="being-clear-and-correct.pdf" crc="329077044" seo="true" mt="1502958972000"/>
+    <file name="first-second-and-third-person.pdf" crc="356819690" seo="true" mt="1502959164000"/>
+    <file name="essay-check-list.pdf" crc="27640153" seo="true" mt="1502959700000"/>
+    <file name="lab-report-check-list.pdf" crc="194508785" seo="true" mt="1502959356000"/>
+    <file name="the-feedback-journey.pdf" crc="4068043618" seo="true" mt="1502959412000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:all:plan:present:research:review:structure:next-step"/>
+    <file name="museutils.js" crc="4232573551" ref="index:all:plan:present:research:review:structure:next-step"/>
+    <file name="whatinput.js" crc="86476730" ref="index:all:plan:present:research:review:structure:next-step"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:all:plan:present:research:review:structure:next-step"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:all:plan:present:research:review:structure:next-step"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:all:plan:present:research:review:structure:next-step"/>
+    <file name="require.js" crc="4234670167" ref="index:all:plan:present:research:review:structure:next-step"/>
+  </folder>
+  <folder name="images">
+    <file name="webpage button graphics - plan-crop-u471.jpg" crc="236668305" seo="true" ref="index:all:plan:present:research:review:structure:next-step">
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="review" alt=""/>
+      <caption webpage="review" alt=""/>
+    </file>
+    <file name="webpage button graphics - research-crop-u502.jpg" crc="3950936260" seo="true" ref="index:all:plan:present:research:review:structure:next-step">
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="review" alt=""/>
+      <caption webpage="review" alt=""/>
+    </file>
+    <file name="webpage button graphics - structure-crop-u512.jpg" crc="245877116" seo="true" ref="index:all:plan:present:research:review:structure:next-step">
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="review" alt=""/>
+      <caption webpage="review" alt=""/>
+    </file>
+    <file name="webpage button graphics - review-crop-u532.jpg" crc="4253600809" seo="true" ref="index:all:plan:present:research:review:structure:next-step">
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="review" alt=""/>
+      <caption webpage="review" alt=""/>
+    </file>
+    <file name="webpage button graphics - next steps.png" crc="3962894011" seo="true" ref="index:all:plan:present:research:review:structure:next-step">
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="next-step" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="structure" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="all" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="plan" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="present" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="review" alt=""/>
+      <caption webpage="review" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:all:plan:present:research:review:structure:next-step"/>
+  </folder>
+  <file name="index.html" crc="3973744702" seo="true" mt="1505212708219" redirect="true"/>
+  <file name="all.html" crc="4123325871" seo="true" mt="1505212708219" redirect="true"/>
+  <file name="plan.html" crc="162776940" seo="true" mt="1505212708219" redirect="true"/>
+  <file name="present.html" crc="4280265384" seo="true" mt="1505212708219" redirect="true"/>
+  <file name="research.html" crc="4002426702" seo="true" mt="1505212708219" redirect="true"/>
+  <file name="review.html" crc="4098399434" seo="true" mt="1505212708219" redirect="true"/>
+  <file name="structure.html" crc="386607441" seo="true" mt="1505212708219" redirect="true"/>
+  <file name="next-step.html" crc="4073059844" seo="true" mt="1505212708219" redirect="true"/>
+</manifest>
